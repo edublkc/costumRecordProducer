@@ -1,0 +1,56 @@
+/*Reference select*/
+.ref-picker-container{
+  max-width:320px;
+}
+
+div.select2-container .select2-choice{
+  background-color: $white;
+  border: 1px solid $offWhite;
+  border-radius:10px;
+  max-width:320px;
+
+}
+
+div.select2-container .select2-choice .select2-arrow{
+  border-left: 1px solid $offWhite;
+}
+
+/*Input when has reference selected*/
+.field-has-reference{
+  background-color: $white;
+  border: 1px solid $offWhite;
+  border-radius:10px;
+}
+
+/*Field label*/
+.form-group .field-label-question{
+  color: $gray300;
+  font-weight: $bold;
+}
+
+/*Input*/
+input.form-control{
+  background-color: $white;
+  border: 1px solid $offWhite;
+  border-radius:10px;
+
+  max-width:320px;
+}
+
+
+/*Text area*/
+textarea.form-control{
+  background-color: $white;
+  border: 1px solid $offWhite;
+  border-radius:10px;
+
+  max-width:320px;
+}
+
+/*Select input*/
+.select2-container{
+  max-width:320px;
+
+}
+
+
